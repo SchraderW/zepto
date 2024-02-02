@@ -6,7 +6,7 @@ largely jQuery-compatible API. If you use jQuery, you already know how to use Ze
 See [zeptojs.com][] for an extended introduction, downloads
 and documentation.
 
-Zepto.js is licensed under the terms of the MIT License
+Zepto.js is licensed under the terms of the MIT License.
 
 Want to give us money or a tip? Don't.
 Instead please donate to [charity: water](http://charitywater.org/).
